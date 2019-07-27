@@ -21,7 +21,7 @@ $(document).ready(function () {
         })
     //console.log(mangNguoiDung);
     function Them(){
-        console.log("ahihi")
+        console.log("ahihihihihi")
     }
     function HienThi(mangHienThi) {
         //var tbodyNguoiDung = getEle("tblDanhSachNguoiDung");
