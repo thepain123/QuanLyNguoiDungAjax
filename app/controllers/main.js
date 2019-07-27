@@ -20,7 +20,9 @@ $(document).ready(function () {
             console.log(err);
         })
     //console.log(mangNguoiDung);
-
+    function Them(){
+        console.log("ahihi")
+    }
     function HienThi(mangHienThi) {
         //var tbodyNguoiDung = getEle("tblDanhSachNguoiDung");
         var tableDanhSach = $("#tblDanhSachNguoiDung");
